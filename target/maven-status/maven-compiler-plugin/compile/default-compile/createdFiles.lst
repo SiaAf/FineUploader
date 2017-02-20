@@ -1,0 +1,9 @@
+com/fineuploader/io/StorageService.class
+com/fineuploader/SpringBootServerApplication.class
+com/fineuploader/model/UploadResponse.class
+com/fineuploader/web/FineUploaderController.class
+com/fineuploader/io/StorageException.class
+com/fineuploader/io/FileSystemStorageService.class
+com/fineuploader/UploadServerProperties.class
+META-INF/spring-configuration-metadata.json
+com/fineuploader/model/UploadRequest.class

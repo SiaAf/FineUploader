@@ -1,0 +1,14 @@
+{
+  "groups": [{
+    "name": "fineuploader",
+    "type": "com.fineuploader.UploadServerProperties",
+    "sourceType": "com.fineuploader.UploadServerProperties"
+  }],
+  "properties": [{
+    "name": "fineuploader.base-dir",
+    "type": "java.nio.file.Path",
+    "sourceType": "com.fineuploader.UploadServerProperties",
+    "defaultValue": "./uploads"
+  }],
+  "hints": []
+}
